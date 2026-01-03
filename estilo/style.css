@@ -10,7 +10,7 @@ body{
 }
 
 main{
-    width: 412px;
+    width: 400px;
     margin: auto;
 }
 
@@ -29,7 +29,7 @@ p{
     display: inline-block;
     font-size: 6em;
     position: relative;
-    margin-left: 140px;
+    margin-left: 135px;
     padding-top: 150px;
 
     animation: bater 0.8s infinite alternate ease-in-out;
